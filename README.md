@@ -53,14 +53,12 @@ The device measures indoor air quality parameters such as CO₂, particulate mat
 | 1× | 3.7" E-Ink Display | 416×240 resolution |
 | 1× | DESPI-C02 | E-paper adapter board |
 | 1× | Custom PCB | Designed for this project |
-| 1× | Enclosure | Designed in Fusion 360 |
-| 1× | USB-C power input | Power supply |
 
 ---
 
 # 🛠 Tools Used
 
 - Fusion 360 – case design  
-- KiCad – schematic and PCB design  
+- EasyEDA – schematic and PCB design  
 - Arduino IDE – firmware development  
 - GitHub – version control and documentation  
