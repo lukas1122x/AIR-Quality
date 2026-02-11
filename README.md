@@ -51,7 +51,7 @@ The device measures indoor air quality parameters such as CO₂, particulate mat
 | 1× | Sensirion SEN54 | PM/VOC/NOx air quality sensor | 26€ | [link](https://www.soselectronic.com/sk-sk/products/sensirion/sen54-sdn-t-370015?currency=EUR&vat=1&gad_campaignid=20312377350) |
 | 1× | Sensirion SCD41 | CO₂/temperature/humidity sensor | 19€ | [link](https://www.aliexpress.com/item/1005009897956849.html?spm=a2g0o.productlist.main.7.49fd3148vlSDSL&algo_pvid=45946307-b2cd-47bb-bba6-12fd41264768) |
 | 1× | 3.7" E-Ink Display | 416×240 e-ink panel | 20€ | [link](https://buy-lcd.com/products/37-inch-416x240-e-paper-black-and-white-spi-fast-refresh-electronic-eink-display-screen-esl-gdey037t03?VariantsId=10347) |
-| 1× | Custom PCB | Designed for this project | Variable | [link](TVOJ_LINK_NA_PCB) |
+| 1× | Custom PCB | Pcb for project | Variable | [link](jlcpcb.com) |
 |      | TOTAL |  | 70€=85$ |  |
 
 
