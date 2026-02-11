@@ -45,14 +45,15 @@ The device measures indoor air quality parameters such as CO₂, particulate mat
 
 # 📦 BOM – Bill of Materials
 
-| Quantity | Name | Description |
-|--------|------|------------|
-| 1× | ESP32-WROOM-32 | Main microcontroller |
-| 1× | Sensirion SEN54 | PM, VOC, NOx sensor |
-| 1× | Sensirion SCD41 | CO₂, temperature, humidity sensor |
-| 1× | 3.7" E-Ink Display | 416×240 resolution |
-| 1× | DESPI-C02 | E-paper adapter board |
-| 1× | Custom PCB | Designed for this project |
+| Quantity | Name | Description | Approx. Price | Link |
+|----------|------|-------------|---------------|------|
+| 1× | ESP32-WROOM-32 | Main microcontroller | 5€ | [link]([https://dlhy-link.com/nejaka/velmi/dlha/adresa](https://www.aliexpress.com/item/1005008513246359.html?spm=a2g0o.productlist.main.6.cd7e6e3dxKBsCb&algo_pvid=5a4f399f-1643-4d90-94f0-88e66494cefc&pdp_ext_f=%7B%22order%22%3A%22316%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008513246359%7C_p_origin_prod%3A)) |
+| 1× | Sensirion SEN54 | PM/VOC/NOx air quality sensor | 26€ | [link]([https://dlhy-link.com/nejaka/velmi/dlha/adresa](https://www.soselectronic.com/sk-sk/products/sensirion/sen54-sdn-t-370015?currency=EUR&vat=1&gad_campaignid=20312377350)) |
+| 1× | Sensirion SCD41 | CO₂/temperature/humidity sensor | 19€ | [link]([https://dlhy-link.com/nejaka/velmi/dlha/adresa](https://www.aliexpress.com/item/1005009897956849.html?spm=a2g0o.productlist.main.7.49fd3148vlSDSL&algo_pvid=45946307-b2cd-47bb-bba6-12fd41264768&pdp_ext_f=%7B%22order%22%3A%22646%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009897956849%7C_p_origin_prod%3A)) |
+| 1× | 3.7" E-Ink Display | 416×240 e-ink panel | 20€ | [link]([https://dlhy-link.com/nejaka/velmi/dlha/adresa](https://buy-lcd.com/products/37-inch-416x240-e-paper-black-and-white-spi-fast-refresh-electronic-eink-display-screen-esl-gdey037t03?VariantsId=10347)) |
+| 1× | Custom PCB | Designed for this project | Variable | (your PCB repo / service link) |
+|      | TOTAL |  | 70€=85$ |  |
+
 
 ---
 
