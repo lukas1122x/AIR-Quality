@@ -3,7 +3,7 @@
 This is my custom air quality monitoring device based on the ESP32-WROOM-32 microcontroller and a 3.7" e-ink display.  
 The device measures indoor air quality parameters such as CO₂, particulate matter, VOC, and NOx, and displays the data on a low-power e-ink screen.
 
-![Product](cad.png)
+![Product]()
 
 ---
 
