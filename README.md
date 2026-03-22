@@ -1,25 +1,29 @@
-# 🌬️ Air Quality Monitor Project
+#Project
 
-This is my custom air quality monitoring device based on the ESP32-WROOM-32 microcontroller and a 3.7" e-ink display.  
-The device measures indoor air quality parameters such as CO₂, particulate matter, VOC, and NOx, and displays the data on a low-power e-ink screen.
+
+This is a custom-built air quality monitoring station powered by an ESP32. It tracks CO2 levels, particulate matter, and VOC/NOx indices in real-time.I use e-ink display because it doesn't emit annoying light in a dark room.
+
+# Why I made this
+
+I built this project because I noticed that whenever I study for a long time in my room with the windows closed, I start feeling unwell and tired. I realized that poor air quality and high CO2 levels were affecting my focus. I wanted a reliable device that tells me exactly when I need to open the window to get fresh air and stay productive.
 
 ![Product](cad1.png)
 
 ---
 
-# 📐 Screenshot: Schematic
+# 📐  Schematic
 
 ![Schematic](schematic.png)
 
 ---
 
-# 🟩 Screenshot: PCB
+# 🟩  PCB
 
 ![PCB](pcb.png)
 
 ---
 
-# 🧱 Screenshot: Case and Component Fit
+# 🧱  Case and Component Fit
 
 ![Case](cad.png)
 
